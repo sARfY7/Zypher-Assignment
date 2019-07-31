@@ -1,0 +1,24 @@
+{
+    "name": "zypher-assignment",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sARfY7/Zypher-Assignment.git"
+    },
+    "author": "Sarfaraz Ahmed",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sARfY7/Zypher-Assignment/issues"
+    },
+    "homepage": "https://github.com/sARfY7/Zypher-Assignment#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.6.7"
+    }
+}
